@@ -1,7 +1,7 @@
 # Self-adaptive_DE
 How parameters in DE evolve along with searching?
 
-In Differential Evolution algorithm, there're two specific parameters __F__ and __CR__(wait a minute! why no one metione __NP__), which control mutation and crossover, finally
+In Differential Evolution algorithm, there're two specific parameters __F__ and __CR__(wait a minute! why no one consider __NP__), which control mutation and crossover, finally
 the searching direction and convergence performance.
 
 There're several ways to do parameter control
